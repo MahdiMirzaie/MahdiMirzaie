@@ -1,6 +1,4 @@
-سلام بنده مهدی میرزایی هستم 
-دانشجوی علوم کامپیوتر
-علاقه مند به :
+Hi Guys Im mehdi mirzaie . My field of study is computer science. I interested in :
 - Python
 - Web Development
 - WordPress
