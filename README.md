@@ -1,4 +1,10 @@
-## Hi there 👋
+سلام بنده مهدی میرزایی هستم 
+دانشجوی علوم کامپیوتر
+علاقه مند به :
+- Python
+- Web Development
+- WordPress
+- Front-End 
 
 <!--
 **MahdiMirzaie/MahdiMirzaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
